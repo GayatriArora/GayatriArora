@@ -1,7 +1,4 @@
-### Hi there 👋
-
-:round_pushpin:Hello World! :earth_asia:  
-< I’m Gayatri I love to code :grinning: and absolutely love dogs :dog: :paw_prints: />
+### Hi there 👋  < I’m Gayatri I love to code :grinning: and absolutely love dogs :dog: :paw_prints: />
 
 
 <!--
