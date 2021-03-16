@@ -1,4 +1,4 @@
-### Hi there 👋  < I’m Gayatri, I'm a passionate developer and love to learn and code. I also love dogs :dog: :paw_prints: />
+### Hi there 👋  < I’m Gayatri I'm a passionate developer and love to learn and code />
 
 
 <!--
