@@ -1,4 +1,12 @@
-### Hi there 👋  < I’m Gayatri I'm a passionate developer and love to learn and code />
+### Hi there 👋   I’m Gayatri 
+
+🙋‍♀️I'm Gayatri Arora, a passionate full-stack developer based in London.
+
+👩‍🎓Recently graduated from Le Wagon's Full Stack Web Development Bootcamp!
+
+📜Learn more about me and projects - https://gayatriarora.github.io/profile-page/
+
+📧Contact me - gayatri6arora@gmail.com
 
 
 <!--
