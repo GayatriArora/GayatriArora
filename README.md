@@ -1,8 +1,6 @@
 ### Hi there 👋   I’m Gayatri 
 
-🙋‍♀️I'm Gayatri Arora, a passionate full-stack developer based in London.
-
-📜Learn more about me - https://www.linkedin.com/in/gayatriarora/
+🙋‍♀️I'm a passionate full-stack developer based in London.
 
 📧Contact me - gayatri6arora@gmail.com
 
